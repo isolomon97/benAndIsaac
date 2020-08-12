@@ -74,7 +74,7 @@ class LoginViewController: UIViewController {
         
         
         if Utilities.isPasswordValid(cleanedPassword) == false {//password isn't secure enough
-            return "Please make sure your password has a minimum of 8 characters, and contains at least 1 uppercase letter, 1 lowercase letter, and 1 number"
+            return "Make sure your password has a minimum of 8 characters, and contains at least 1 uppercase letter, 1 lowercase letter, and 1 number"
         }
         
         
