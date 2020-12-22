@@ -1,2 +1,1 @@
-# chessTimer
-Chess timer application built in swift
+# WaterCooler
